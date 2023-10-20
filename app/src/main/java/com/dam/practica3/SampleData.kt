@@ -1,4 +1,5 @@
-import com.dam.practica3.Mensaje1
+import com.dam.practica3.MainActivity.Mensaje1
+
 
 /**
  * SampleData for Jetpack Compose Tutorial 
