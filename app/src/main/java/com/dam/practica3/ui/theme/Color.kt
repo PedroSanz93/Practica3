@@ -4,7 +4,7 @@ import androidx.compose.ui.graphics.Color
 
 val Blue1 = Color(0xFF0056A0)
 val Orange1 = Color(0xFFBB2B00)
-val Yellow1 = Color(0xFFAA8500)
+val Yellow1 = Color(0xFFB38D0A)
 
 val Purple40 = Color(0xFF6650a4)
 val PurpleGrey40 = Color(0xFF625b71)
